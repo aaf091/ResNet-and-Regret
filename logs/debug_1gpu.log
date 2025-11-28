@@ -1,0 +1,4 @@
+[EPOCH] 0 | loss=1.9720 | acc=0.2855
+[EPOCH] 1 | loss=1.5437 | acc=0.4308
+[TIME] epoch=1 | total_time_sec=14.946406 | compute_time_sec=14.347462
+[MODEL] total gradient size ≈ 42.63 MB
